@@ -1,2 +1,4 @@
 printf("hello")
-a  = 1
+a = 1
+d = 6
+e = 2
